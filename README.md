@@ -2,7 +2,7 @@
 
 ## Документы
 
-* [План автоматизации](http://)
+* [План автоматизации](https://github.com/frantzev/diploma/blob/master/docs/plan.md)
 * [Отчет по итогам тестирования](https://github.com/)
 * [Отчет по итогам автоматизации](https://github.com/)
 
