@@ -4,7 +4,7 @@
 
 В ходе работы над проектом было проведено тестирование веб-сервиса "Путешествие дня", которое представляет из себя комплексный сервис, взаимодействующий с СУБД банка.
 
-На первом этапе было проведено исследовательское тестирование для ознакомления с проектом. После написания автотестов было проведено автоматизированное тестирование сервиса, включающее в себя [проверку позитивных и негативных сценариев покупки тура](https://github.com/BudnikovaNastiya/QA-Diploma/blob/master/docs/plan.md), тестирование UI, БД.
+На первом этапе было проведено исследовательское тестирование для ознакомления с проектом. После написания автотестов было проведено автоматизированное тестирование сервиса, включающее в себя [проверку позитивных и негативных сценариев покупки тура](https://github.com/frantzev/diploma/blob/master/docs/plan.md), тестирование UI, БД.
 
 
 Тестирование проведено для двух БД - MySQL и PostgreSQL.
@@ -17,23 +17,23 @@
 
   На скриншотах ниже представлены отчеты Allure по итогам тестирования:
 
-![Allure Report 2021-11-03 15-10-50.png](https://github.com/BudnikovaNastiya/QA-Diploma/blob/master/docs/Allure%20Report%202021-11-03%2015-10-50.png)
+![Allure Report 2022-08-10 15-10-50.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-10-50.png)
 
-![Allure Report 2021-11-03 15-11-47.png](https://github.com/BudnikovaNastiya/QA-Diploma/blob/master/docs/Allure%20Report%202021-11-03%2015-11-47.png)
+![Allure Report 2022-08-10 15-11-34.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-11-34.png)
 
-![Allure Report 2021-11-03 15-12-29.png](https://github.com/BudnikovaNastiya/QA-Diploma/blob/master/docs/Allure%20Report%202021-11-03%2015-12-29.png)
+![Allure Report 2022-08-10 15-12-29.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-12-29.png)
 
-![Allure Report 2021-11-03 15-13-04.png](https://github.com/BudnikovaNastiya/QA-Diploma/blob/master/docs/Allure%20Report%202021-11-03%2015-13-04.png)
+![Allure Report 2022-08-10 15-13-04.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-13-04.png)
 
 ### Найденные дефекты
 
 В результате тестирования приложения выявлены следующие дефекты:
-* [Список дефектов](https://github.com/BudnikovaNastiya/QA-Diploma/issues)
+* [Список дефектов](https://github.com/frantzev/diploma/issues)
 
 ### Общие рекомендации:
 
 * Создать документацию для данного приложения.
-* Исправить [дефекты](https://github.com/BudnikovaNastiya/QA-Diploma/issues).
+* Исправить [дефекты](https://github.com/frantzev/diploma/issues).
 * Добавить изменение цвета кнопок "Купить" и "Купить в кредит" при переключении между двумя вкладками для удобства пользователя.
 * Заменить предупреждения "Неверный формат" на более информативные.
 

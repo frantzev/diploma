@@ -2,9 +2,9 @@
 
 ## Документы
 
-* [План автоматизации](http://)
-* [Отчет по итогам тестирования](https://github.com/)
-* [Отчет по итогам автоматизации](https://github.com/)
+* [План автоматизации](https://github.com/frantzev/diploma/blob/master/docs/plan.md)
+* [Отчет по итогам тестирования](https://github.com/frantzev/diploma/blob/master/docs/report.md)
+* [Отчет по итогам автоматизации](https://github.com/frantzev/diploma/blob/master/docs/summary.md)
 
 Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
 
