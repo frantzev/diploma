@@ -17,13 +17,15 @@
 
   На скриншотах ниже представлены отчеты Allure по итогам тестирования:
 
-![Allure Report 2022-08-10 15-10-50.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-10-50.png)
+![Allure Report 2022-09-11 17-43-00.png](https://github.com/frantzev/diploma/blob/master/docs/Скриншот%202022-09-11%2017.43.00.png)
 
-![Allure Report 2022-08-10 15-11-34.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-11-34.png)
+![Allure Report 2022-09-11 17-43-44.png](https://github.com/frantzev/diploma/blob/master/docs/Скриншот%202022-09-11%2017.43.44.png)
 
-![Allure Report 2022-08-10 15-12-29.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-12-29.png)
+![Allure Report 2022-09-11 17-44-35.png](https://github.com/frantzev/diploma/blob/master/docs/Скриншот%202022-09-11%2017.44.35.png)
 
-![Allure Report 2022-08-10 15-13-04.png](https://github.com/frantzev/diploma/blob/master/docs/Allure%20Report%202022-08-10%2015-13-04.png)
+![Allure Report 2022-09-11 17-44-54.png](https://github.com/frantzev/diploma/blob/master/docs/Скриншот%202022-09-11%2017.44.54.png)
+
+![Allure Report 2022-09-11 17-45-36.png](https://github.com/frantzev/diploma/blob/master/docs/Скриншот%202022-09-11%2017.45.36.png)
 
 ### Найденные дефекты
 
