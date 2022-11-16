@@ -7,7 +7,7 @@
 
 Прилагаю ниже AllureReport
 
-![alt image](https://github.com/)
+![alt image](https://github.com/frantzev/diploma/blob/master/docs/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202022-11-15%2022.22.58.png)
 
 По итогам тестирования **обнаружено 6 багов**, а также предложено одно улучшение. 
 
