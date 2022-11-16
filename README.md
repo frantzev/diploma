@@ -5,7 +5,7 @@
 
 ### Документация по проекту 
   * [План по автоматизации тестирования](https://github.com/frantzev/diploma/blob/master/docs/plan.md)
-  * [Отчет по итогам автоматизированного тестирования](https://github.com/AnnaPo-hub/.../Report.md)
+  * [Отчет по итогам автоматизированного тестирования](https://github.com/frantzev/diploma/blob/master/docs/report.md)
   * [Отчет по итогам автоматизации](https://github.com/.../Summary.md). 
 
      
