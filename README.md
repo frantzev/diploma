@@ -4,7 +4,7 @@
 по данным дебетовой карты. 
 
 ### Документация по проекту 
-  * [План по автоматизации тестирования](https://github.com/.../Plan.md)
+  * [План по автоматизации тестирования](https://github.com/frantzev/diploma/blob/master/docs/plan.md)
   * [Отчет по итогам автоматизированного тестирования](https://github.com/AnnaPo-hub/.../Report.md)
   * [Отчет по итогам автоматизации](https://github.com/.../Summary.md). 
 
